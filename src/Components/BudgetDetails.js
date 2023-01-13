@@ -13,7 +13,7 @@ const BudgetDetails = () => {
     function handleDelete() {
         axios.delete(`${API}/budget/${index}`)
             .then(() => {
-                navigate("/logs")
+                navigate("/budget")
             })
             .catch(err => console.log(err))
     }
