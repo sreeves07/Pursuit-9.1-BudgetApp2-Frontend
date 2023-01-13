@@ -7,4 +7,4 @@
 ## Deployed Links
 Backend Deployed Through Render : https://budget-app-backend-t6ph.onrender.com/budget
 
-Frontend Deployed Through Netlify : 
+Frontend Deployed Through Netlify : https://63c1a9bd4ea33803d4fe71fc--wondrous-youtiao-ca6487.netlify.app/
